@@ -11,7 +11,7 @@
   <p> Hi there 👋
 </div>
 
-### :man_technologist: About Me :
+### :octocat: About Me :
 <!--
   <p>
   <img src="https://komarev.com/ghpvc/?username=dkspace&style=flat-square&color=blue" alt=""/>
