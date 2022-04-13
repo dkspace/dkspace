@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <div id="header" align="center"> 
@@ -9,10 +9,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <p>
-  <img src="https://komarev.com/ghpvc/?username=dkspace&style=flat-square&color=blue" alt=""/>
+### Hi there 👋
 </div>
 
 <!--
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=dkspace&style=flat-square&color=blue" alt=""/>
 **dkspace/dkspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
