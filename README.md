@@ -10,13 +10,15 @@
   </a>
 </div>
 
-
+---
 :octocat:  I’m working as a System Engineer and contributing to DevNetOps for <a href="https://www.onap.org/">ONAP</a> and <a href="https://www.o-ran.org/">OpenRan</a> application.
 
 - :telescope: In my free time, I develop solution for ELT automatization and Big data analysis. 
 
 - :seedling: Exploring Technical Content Writing.
+---
 
+### :hammer_and_wrench: Languages and Tools :
 <!--
   <p>
   <img src="https://komarev.com/ghpvc/?username=dkspace&style=flat-square&color=blue" alt=""/>
