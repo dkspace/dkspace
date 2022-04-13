@@ -13,7 +13,15 @@
 
 ### :octocat: About Me :
 
-I am a devops engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a expert engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+:telescope: I’m working as a Eystem Engineer and contributing to DevNetOps for ONAP and OpenRan application.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I develop solution for ELT automatization and Big data analysis. 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriykudryavcev)
 <!--
   <p>
   <img src="https://komarev.com/ghpvc/?username=dkspace&style=flat-square&color=blue" alt=""/>
