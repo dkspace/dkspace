@@ -53,6 +53,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" **alt="Prometheus" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkspace)](https://github.com/anuraghazra/dkspace)
+
 <!--
   <p>
   <img src="https://komarev.com/ghpvc/?username=dkspace&style=flat-square&color=blue" alt=""/>
