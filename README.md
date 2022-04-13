@@ -8,8 +8,7 @@
   <a href="https://www.linkedin.com/in/dmitriykudryavcev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p>
-### Hi there 👋
+  <p> Hi there 👋
 </div>
 
 <!--
