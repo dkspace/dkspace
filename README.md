@@ -15,7 +15,7 @@
 
 I am a expert engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-:telescope: I’m working as a Eystem Engineer and contributing to DevNetOps for ONAP and OpenRan application.
+:telescope: I’m working as a Eystem Engineer and contributing to DevNetOps for <a href="https://www.onap.org/">ONAP</a> and <a href="https://www.o-ran.org/">OpenRan</a> application.
 
 - :seedling: Exploring Technical Content Writing.
 
