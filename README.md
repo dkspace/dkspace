@@ -57,7 +57,7 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkspace&theme=dark&hide_border=true)](https://github.com/anuraghazra/dkspace)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkspace&theme=codeSTACKr&hide_border=true)](https://github.com/anuraghazra/dkspace)
 
 <!--
   <p>
