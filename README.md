@@ -11,7 +11,7 @@
 </div>-->
 
 ---
-:octocat:  I’m working as a System Engineer and contributing to DevOps for <a href="https://www.onap.org/">ONAP</a> and <a href="https://www.o-ran.org/">OpenRan</a> application.
+:octocat:  I’m working as a System Architect and in here i`m contributing to DevOps for <a href="https://www.onap.org/">ONAP</a> and <a href="https://www.o-ran.org/">OpenRan</a> application.
 
 - :telescope: In my free time, I develop solution for ELT automatization and Big data analysis. 
 
